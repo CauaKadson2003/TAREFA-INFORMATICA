@@ -1,4 +1,4 @@
-# INFORMATICA
+# INFORMÁTICA
 ## APRESENTAÇÃO
 apresentação pessoal em grupo.
 ## PLANILHA 1
