@@ -1,5 +1,7 @@
 # INFORMATICA
 ## APRESENTAÇÃO
-
-
-## PLANILHA 
+apresentação pessoal em grupo.
+## PLANILHA 1
+análise elaborada de dados
+## PLANILHA 2
+dados abertos em formato de planilha
