@@ -1,9 +1,1 @@
-# INFORMÁTICA
-## APRESENTAÇÃO
-apresentação pessoal em grupo.
-## PLANILHA 1
-análise elaborada de dados
-## PLANILHA 2
-dados abertos em formato de planilha
-## POWER BI
-aprendemos a manusear o power bi
+https://www.canva.com/design/DAGwwe5abYc/JaWueBWkllz3RjULRmJQfg/view?utm_content=DAGwwe5abYc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h241a908f7b
