@@ -5,3 +5,5 @@ apresentação pessoal em grupo.
 análise elaborada de dados
 ## PLANILHA 2
 dados abertos em formato de planilha
+## POWER BI
+aprendemos a manusear o power bi
