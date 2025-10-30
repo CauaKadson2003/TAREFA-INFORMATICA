@@ -1,4 +1,4 @@
-# INFO_LOG
+# INFORMÁTICA_LOGÍSTICA
 Trabalhos realizados e entregues na disciplina de Informática Aplicada
 
 ## Atividade 1: Apresentação em grupo no Canva
