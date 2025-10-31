@@ -23,3 +23,4 @@ https://github.com/anabeatrizp1/INFO_LOG/blob/main/POWER%20BI.pbix
 
 ## Atividade 5: Power BI Exportação 2025
 https://app.powerbi.com/links/7zC3qnDX9N?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/b5a85676-2e30-4eb0-ba96-fff836c90f50" />
