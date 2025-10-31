@@ -17,7 +17,9 @@ https://github.com/anabeatrizp1/INFO_LOG/blob/main/ATIVIDADE_NCM.zip
 
 ## Atividade 4: Power BI
 Aprendemos a manusear e tratar dados no Power BI.
-
 https://github.com/anabeatrizp1/INFO_LOG/blob/main/POWER%20BI.pbix
+<img width="1918" height="1029" alt="image" src="https://github.com/user-attachments/assets/45c4aead-314c-4204-ace3-b818700ed164" />
+
+
 ## Atividade 5: Power BI Exportação 2025
 https://app.powerbi.com/links/7zC3qnDX9N?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
