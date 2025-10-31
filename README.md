@@ -3,6 +3,7 @@ Trabalhos realizados e entregues na disciplina de Informática Aplicada
 
 ## Atividade 1: Apresentação em grupo no Canva
 https://www.canva.com/design/DAGwwe5abYc/JaWueBWkllz3RjULRmJQfg/view?utm_content=DAGwwe5abYc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h241a908f7b
+<img width="1919" height="941" alt="image" src="https://github.com/user-attachments/assets/5179eecb-7950-4c3d-8b46-f33a351c7277" />
 
 ## Atividade 2: Análise exploratória referente a dados abertos sobre bares, restaurantes e cafeterias existentes no Brasil
 <img width="599" height="270" alt="image" src="https://github.com/user-attachments/assets/4bdee26b-9c0d-41c3-aba0-07b00728d70b" />
