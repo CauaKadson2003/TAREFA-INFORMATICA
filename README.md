@@ -10,8 +10,9 @@ https://www.canva.com/design/DAGwwe5abYc/JaWueBWkllz3RjULRmJQfg/view?utm_content
 
 ##  Atividade 3: Análise do Comex Stat
 Aprendemos a fazer análise de dados, inclusive usando o PROCV.
-
 https://github.com/anabeatrizp1/INFO_LOG/blob/main/ATIVIDADE_NCM.zip
+<img width="1919" height="1026" alt="image" src="https://github.com/user-attachments/assets/983e146e-b679-4936-bfb5-e6317c93c3db" />
+
 
 ## Atividade 4: Power BI
 Aprendemos a manusear e tratar dados no Power BI.
