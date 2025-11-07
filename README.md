@@ -1,4 +1,4 @@
-# INFORMÁTICA_LOGÍSTICA
+[Regressão_Linear_do_Sorvete.ipynb](https://github.com/user-attachments/files/23426612/Regressao_Linear_do_Sorvete.ipynb)[Regressão_Linear_do_Sorvete.ipynb](https://github.com/user-attachments/files/23426578/Regressao_Linear_do_Sorvete.ipynb)# INFORMÁTICA_LOGÍSTICA
 Trabalhos realizados e entregues na disciplina de Informática Aplicada
 
 ## Atividade 1: Apresentação em grupo no Canva
@@ -24,3 +24,8 @@ https://github.com/anabeatrizp1/INFO_LOG/blob/main/POWER%20BI.pbix
 ## Atividade 5: Power BI Exportação 2025
 https://app.powerbi.com/links/7zC3qnDX9N?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
 <img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/b5a85676-2e30-4eb0-ba96-fff836c90f50" />
+
+## ATIVIDADE 6:  
+[Ice Cream.xlsx](https://github.com/user-attachments/files/23426558/Ice.Cream.xlsx)
+<img width="1919" height="986" alt="image" src="https://github.com/user-attachments/assets/5af61c9b-98a4-43f7-bcb2-874f9c0f4c72" />
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/35f8f85c-7a93-445b-9c89-fcf677f909ca" />
