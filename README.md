@@ -25,12 +25,12 @@ https://github.com/anabeatrizp1/INFO_LOG/blob/main/POWER%20BI.pbix
 https://app.powerbi.com/links/7zC3qnDX9N?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
 <img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/b5a85676-2e30-4eb0-ba96-fff836c90f50" />
 
-## Atividade 6:  
+## Atividade 6: Gráfico de Regressão Linear - Sorvete
 [Ice Cream.xlsx](https://github.com/user-attachments/files/23426558/Ice.Cream.xlsx)
 <img width="1919" height="986" alt="image" src="https://github.com/user-attachments/assets/5af61c9b-98a4-43f7-bcb2-874f9c0f4c72" />
 <img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/35f8f85c-7a93-445b-9c89-fcf677f909ca" />
 
-## Atividade 7:
+## Atividade 7: Gráfico de Regressão Linear - Salários
 [Salary Data.xlsx](https://github.com/user-attachments/files/23426643/Salary.Data.xlsx)
 <img width="1917" height="936" alt="image" src="https://github.com/user-attachments/assets/12df9f74-a344-4d67-a341-9c89df1245ed" />
 <img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/d03c5af5-da67-4e97-ac1c-5bb9c0410660" />
